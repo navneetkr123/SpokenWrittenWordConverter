@@ -43,6 +43,6 @@ This replaces spoken word to written word.
 
 **NOTE: Now we can see that two dollor and 5 dollor is replaced by $2 and $5**
 
-#Future Work
-*Very soon I will release a direct install from git, till than stay tuned*
+# Future Work
+*Very soon I will release a direct install from git, till than stay tuned*\
 *To add more values in dictionary*
