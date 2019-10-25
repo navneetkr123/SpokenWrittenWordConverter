@@ -7,16 +7,18 @@
 
 ============================================
 
-> my_package.py contains 
-
+> sptt.py contains 
+```
 dictionary that maps spoken word to written word.
-EX : {"tripple a" : "aaa"}
+EX : {"tripple a" : "aaa"}**
 
 add(a,b) this function adds new values to dictionary.
-EX : dict.add("two dollor", "$2") gives new_dict : {"tripple a" : "aaa", "two dollor", "$2" }
+EX : dict.add(dict, "two dollor", "$2") gives new_dict : {"tripple a" : "aaa", "two dollor", "$2" }
 
-
-
+SpokenToText(data, dict)
+This replaces spoken word to written word.
+```
+**NOTE: This only supports list, string and dataframe**
 
 
 
