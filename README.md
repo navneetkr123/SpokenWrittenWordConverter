@@ -1,7 +1,9 @@
 # SpokenToWrittenWordConverter
-> Files contains
-1. my_package.py
-2. wheel
+> **Files contains**
+
+**1. sptt.py**
+**2. setup.py**
+**3. sample**
 
 ============================================
 
