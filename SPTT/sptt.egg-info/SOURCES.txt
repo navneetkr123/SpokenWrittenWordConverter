@@ -1,0 +1,7 @@
+setup.py
+sptt/setup.py
+sptt/sptt.py
+sptt.egg-info/PKG-INFO
+sptt.egg-info/SOURCES.txt
+sptt.egg-info/dependency_links.txt
+sptt.egg-info/top_level.txt
