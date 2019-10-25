@@ -42,3 +42,5 @@ This replaces spoken word to written word.
 ![Image9](https://github.com/navneetkr123/SpokenWrittenWordConverter/blob/master/Screen%20Shot%202019-10-25%20at%209.49.48%20PM.png)
 
 **NOTE: Now we can see that two dollor and 5 dollor is replaced by $2 and $5**
+
+*Very soon I will release a direct install from git, till than stay tuned*
