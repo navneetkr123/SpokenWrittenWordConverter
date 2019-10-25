@@ -46,3 +46,6 @@ This replaces spoken word to written word.
 # Future Work
 *Very soon I will release a direct install from git, till than stay tuned*\
 *To add more values in dictionary*
+
+# Design Document
+[Design document](https://docs.google.com/document/d/1cXb5bW-USg22rF7xtg0vY-KVeaIbw4X_lMuPB9q8GDg/edit?usp=sharing)
