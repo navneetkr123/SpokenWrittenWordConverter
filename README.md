@@ -20,6 +20,14 @@ This replaces spoken word to written word.
 ```
 **NOTE: This only supports list, string and dataframe**
 
+**Some working example**
+```
+import sptt
+stri = "on hourly basis, two person earns two dollor, five dollor respectively "
+lst = stri.split(" ")
+lst
+```
+
 
 
 
