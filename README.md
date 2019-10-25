@@ -21,12 +21,8 @@ This replaces spoken word to written word.
 **NOTE: This only supports list, string and dataframe**
 
 **Some working example**
-```
-import sptt
-stri = "on hourly basis, two person earns two dollor, five dollor respectively "
-lst = stri.split(" ")
-lst
-```
+
+![Importing](https://github.com/navneetkr123/SpokenWrittenWordConverter/blob/master/Screen%20Shot%202019-10-25%20at%209.43.36%20PM.png)
 
 
 
