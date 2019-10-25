@@ -19,13 +19,14 @@ SpokenToText(data, dict)
 This replaces spoken word to written word.
 ```
 **NOTE: This only supports list, string and dataframe**
-
 ===============================================
+
 **Installation**
 [Download](https://github.com/navneetkr123/SpokenWrittenWordConverter/blob/master/SPTT/dist/sptt-0.1-py3-none-any.whl)
 1. Download above wheel file
 2. Open the commond promt from where it has downloaded
 3. pip3 install sptt-0.1-py3-none-any.whl
+  or pip3 install <directry> sptt-0.1-py3-none-any.whl
 ===============================================
 
 **Some working example**
