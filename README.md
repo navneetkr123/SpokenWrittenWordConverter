@@ -26,7 +26,7 @@ This replaces spoken word to written word.
 1. Download above wheel file
 2. Open the commond promt from where it has downloaded
 3. pip3 install sptt-0.1-py3-none-any.whl
-  or pip3 install <directry> sptt-0.1-py3-none-any.whl
+   **OR** pip3 install (directry) sptt-0.1-py3-none-any.whl
 ===============================================
 
 **Some working example**
